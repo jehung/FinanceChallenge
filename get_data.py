@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+<<<<<<< HEAD
 
 
 def get_data():
@@ -28,3 +29,5 @@ def get_data():
 
 ans = get_data()
 print(ans.shape)
+=======
+>>>>>>> 8999538b71d9f619ba25225ed5888380cc99be0e
